@@ -40,7 +40,6 @@ only _two_ rules:</br>
 | avocado-thuglife | <img src="avocados/avocado-thuglife.png" width="75"> |
 | avocado-thumbsup | <img src="avocados/avocado-thumbsup.png" width="75"> |
 | avocado-troll | <img src="avocados/avocado-troll.png" width="75"> |
-</br>
 
 ### other
 | name | preview |
