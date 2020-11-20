@@ -1,5 +1,5 @@
 # emojis
-random assortment of emojis that crept up over the last few years. feel free to import them to slack or discord</br>
+random assortment of emojis that were imported from giphy or created with Preview. feel free to import them to your slack or discord</br>
  </br>
 
 
