@@ -8,7 +8,6 @@ random assortment of emojis that were imported from giphy or created with Previe
 only _two_ rules:</br>
 1. please follow this naming convention: </br>
 `lowercase alphanumeric words spaced by a hyphen '-'`</br>
-</br>
 2. update the list below, alphabetically: </br>
 </br>
 
