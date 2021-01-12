@@ -143,6 +143,7 @@ only _two_ rules:</br>
 | unicorn-horn | <img src="other/unicorn-horn.png" width="75"> |
 | waldo | <img src="other/waldo.png" width="75"> |
 | walking-body | <img src="other/walking-body.gif" width="75"> |
+| watch-people-die-inside | <img src="other/watch-people-die-inside.png" width="75"> |
 | witness-protection-parrot | <img src="other/witness-protection-parrot.gif" width="75"> |
 | woke | <img src="other/woke.png" width="75"> |
 | yay | <img src="other/yay.png" width="75"> |
