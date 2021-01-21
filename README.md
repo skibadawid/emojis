@@ -47,6 +47,7 @@ only _two_ rules:</br>
 | anon | <img src="other/anon.png" width="75"> |
 | arrow-up | <img src="other/arrow-up.gif" width="75"> |
 | average | <img src="other/average.png" width="75"> |
+| bernie-sitting | <img src="other/bernie-sitting.png" width="75"> |
 | bezos-creep-brick-left | <img src="other/bezos-creep-brick-left.png" width="75"> |
 | bezos-creep-brick-right | <img src="other/bezos-creep-brick-right.png" width="75"> |
 | bezos-creep-brick-top | <img src="other/bezos-creep-brick-top.png" width="75"> |
