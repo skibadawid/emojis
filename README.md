@@ -114,6 +114,7 @@ only _two_ rules:</br>
 | nick-cageslime | <img src="other/nick-cageslime.gif" width="75"> |
 | noice | <img src="other/noice.gif" width="75"> |
 | obama-broccoli | <img src="other/obama-broccoli.gif" width="75"> |
+| party-dab | <img src="other/party-dab.gif" width="75"> |
 | party-keanu | <img src="other/party-keanu.gif" width="75"> |
 | phoebe-bridgers | <img src="other/phoebe-bridgers.png" width="75"> |
 | pilgrim-hat | <img src="other/pilgrim-hat.png" width="75"> |
