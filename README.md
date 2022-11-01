@@ -69,6 +69,7 @@ only _two_ rules:</br>
 | chameleon7 | <img src="other/chameleon7.png" width="75"> |
 | clickbait | <img src="other/clickbait.png" width="75"> |
 | clown-body | <img src="other/clown-body.png" width="75"> |
+| cold | <img src="other/cold.gif" width="75"> |
 | creep | <img src="other/creep.png" width="75"> |
 | cute | <img src="other/cute.gif" width="75"> |
 | dancing-kid | <img src="other/dancing-kid.gif" width="75"> |
